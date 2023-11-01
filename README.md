@@ -6,4 +6,4 @@
 - 💬 Feel free to ask me about **APIs, database design**, or even share ideas about Agriculture and IoT (although I am not a farmer).
 - 📫  You can reach me through [X](https://x.com/CollinsKasyoki), connect with me on [LinkedIn](https://www.linkedin.com/in/collins-thano), or find me on [Dev.to](https://dev.to/collinskasyoki).
 <br />
-⚡ Fun fact: We actually need more efficient software, not necessarily more powerful machines. But then, there's something called Jevons Paradox.
+⚡ Fun fact: I believe we need more efficient software, not necessarily more powerful machines. But then, there's something called Jevons Paradox.
