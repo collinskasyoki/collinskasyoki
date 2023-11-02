@@ -1,4 +1,5 @@
-### Greetings 👋. My name is Collins Kasyoki Thano, and I am a software programmer. You can also call me a Software Engineer.
+## Greetings 👋. 
+**My name is Collins Kasyoki Thano, and I am a software programmer. You can also call me a Software Engineer.**
 
 - 🔭 I work with **Python, JS, HTML, CSS**, and their associated frameworks like **Django, FastAPI, Flask, React**, and **Next.js**.
 - 🌱 Currently, I am diving deeper into Python and *data science modules* to learn *Data Analytics*. I find it fascinating to manipulate and move data, simplifying what happens behind the scenes.
